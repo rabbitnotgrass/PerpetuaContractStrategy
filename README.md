@@ -6,7 +6,7 @@
 ## 关注
 
 <p align="center">
-  <img src="./assets/wechat.png" alt="WeiXin" width="180">
+  <img src="./assets/wechat.png" alt="WeiXin" width="240">
 </p>
 
 ## 捐赠
