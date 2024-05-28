@@ -1,9 +1,9 @@
 <p align="center">
-  <br>中文 | <a href="README_en.md">English</a>
-  <br>分享永续合约的一些可行性代码
+  <br><a href="README.md">中文</a> | English
+  <br>Share Some Convenient Codes for Perpetual Contracts
 </p>
 
-## 捐赠
+## Donation
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="./assets/chain-address.png" alt="WeiXin" width="180"></a>
