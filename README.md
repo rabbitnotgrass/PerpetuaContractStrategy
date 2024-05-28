@@ -3,8 +3,15 @@
   <br>分享永续合约的一些可行性代码
 </p>
 
+## 关注
+
+<p align="center">
+  <img src="./assets/wechat.png" alt="WeiXin" width="180">
+</p>
+
 ## 捐赠
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/weixin.png"><img src="./assets/chain-address.png" alt="WeiXin" width="180"></a>
+  <img src="./assets/chain-address.png" alt="chain" width="180">
 </p>
+
