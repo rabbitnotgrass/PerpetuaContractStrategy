@@ -3,6 +3,12 @@
   <br>Share Some Convenient Codes for Perpetual Contracts
 </p>
 
+## Subscribe
+
+<p align="center">
+  <img src="./assets/wechat.png" alt="WeiXin" width="440">
+</p>
+
 ## Donation
 
 <p align="center">
