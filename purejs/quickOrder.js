@@ -105,17 +105,17 @@ const parentElement = document.querySelector(
   'div[class="okui-tabs-pane-list-wrapper"]'
 );
 
-const sellLimitBtn = createButton("止损卖", "red", "30px", () =>
+const sellLimitBtn = createButton("loss sell", "red", "30px", () =>
   placeOrder("sell", true)
 );
-const buyLimitBtn = createButton("止损买", "green", "30px", () =>
+const buyLimitBtn = createButton("loss buy", "green", "30px", () =>
   placeOrder("buy", true)
 );
 
-const sellLimitBt1 = createButton("只卖", "red", "30px", () =>
+const sellLimitBt1 = createButton("only sell", "red", "30px", () =>
   placeOrder("sell", false)
 );
-const buyLimitBtn1 = createButton("只买", "green", "30px", () =>
+const buyLimitBtn1 = createButton("only buy", "green", "30px", () =>
   placeOrder("buy", false)
 );
 
